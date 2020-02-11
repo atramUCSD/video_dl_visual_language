@@ -73,6 +73,7 @@ Utilizing Python's ability to manipulate csv and xlsx files, we utilized a libra
 For arithmetic calculations, we used the Python library NumPy.
 
 NumPy = A library of numerical computations. 
+
 Pandas = A library for data wrangling and data manipulation. 
 
 ```python
